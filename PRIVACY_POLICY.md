@@ -1,157 +1,115 @@
-Wisora Privacy Policy
+}
+# Wisora Privacy Policy  
 Effective Date: March 31, 2026
 
-Plain English Summary:
-Wisora is designed to help you avoid bad car deals. When you actively use the extension on a supported automotive listing (such as AutoTrader or CarGurus), it reads publicly available vehicle data (e.g., Make, Model, Year, Price, VIN, and listing details). This data is sent to our secure backend and trusted AI providers (such as Google Gemini) to generate your Wisdom Score and Verdict.
+---
 
-We do not track you across websites, collect personally identifiable information, or sell your data. The extension only operates when you explicitly activate it on supported pages.
+## Plain English Summary  
+Wisora is designed to help you avoid bad car deals.  
 
-⸻
+When you actively use the extension on supported automotive listings (such as AutoTrader or CarGurus), it reads publicly available vehicle data (e.g., Make, Model, Year, Price, VIN, and listing details).  
 
-1. Introduction
+This data is sent to our secure backend and trusted AI providers (such as Google Gemini) to generate your Wisdom Score and Verdict.
 
-Welcome to Wisora (“we,” “our,” or “us”). This Privacy Policy explains how our Chrome Extension, Wisora — Smart Car Deal Checker (“the Extension”), collects, uses, processes, and protects information.
+We do NOT:
+- Track you across websites  
+- Collect personally identifiable information  
+- Sell your data  
+- Inject ads  
 
-This policy is designed to comply with the Chrome Web Store Developer Program Policies, the General Data Protection Regulation (GDPR), and general consumer privacy standards.
+The extension only operates when you explicitly activate it.
 
-⸻
+---
 
-2. Information Collected
+## 1. Introduction  
+Welcome to Wisora ("we," "our," or "us").  
 
-Wisora follows a strict data minimization principle — only collecting what is necessary to provide its functionality.
+This Privacy Policy explains how our Chrome Extension,  
+Wisora — Smart Car Deal Checker, collects and processes information.
 
-Wisora does not collect personally identifiable information such as names, email addresses, or account data.
+---
 
-Webpage Content (Restricted)
+## 2. Information Collected  
 
-The Extension accesses and processes publicly available vehicle listing data only when the user actively interacts with the Extension on supported automotive websites.
+We follow strict data minimization principles.
 
-This includes:
-	•	Make, Model, Year, Trim
-	•	Mileage and Price
-	•	VIN
-	•	Public listing descriptions and vehicle history text
+We do NOT collect personally identifiable information.
 
-Vehicle Identification Numbers (VINs) are treated strictly as vehicle-related data and are not used to identify individuals.
+### Webpage Content  
+We access publicly available vehicle listing data when you activate the extension:
+- Make, Model, Year  
+- Mileage and Price  
+- VIN  
+- Listing descriptions  
 
-The Extension does not access unrelated browsing data and does not monitor browsing activity in the background.
+VINs are treated as vehicle data, not personal data.
 
-⸻
+We do not monitor browsing in the background.
 
-User Input
+---
 
-If you manually enter a VIN, that input is processed solely to generate an analysis.
+### User Input  
+If you enter a VIN manually, it is used only to generate results.
 
-⸻
+---
 
-Technical Data
+### Local Storage  
+We store results locally to improve performance.
 
-We may collect limited, non-identifiable technical data (e.g., extension version, browser type, error logs) strictly for maintaining service reliability and performance.
+---
 
-⸻
+## 3. How Data Is Used  
+We use data only to:
+- Analyze listings  
+- Generate insights  
+- Improve performance  
 
-Local Storage
+We do not:
+- Advertise  
+- Track users  
+- Sell data  
 
-The Extension uses browser storage (e.g., chrome.storage.local) to save analysis results locally on your device to improve speed and user experience.
+---
 
-⸻
+## 4. Third Parties  
 
-3. How Information Is Used
+We may send vehicle data to:
+- AI providers (e.g., Google Gemini)
 
-We use collected data exclusively to provide the Extension’s core functionality:
-	•	Extract and analyze vehicle listing data
-	•	Generate risk assessments and summaries (“Verdicts”)
-	•	Improve response speed through caching and optimization
+These services only process data to generate results.
 
-The Extension provides informational analysis only and does not make legally binding or automated decisions affecting users.
+---
 
-We do not use data for advertising, profiling, or cross-site tracking.
+## 5. Data Retention  
+- Vehicle data may be cached for performance  
+- No personal identity is stored  
 
-⸻
+---
 
-4. Legal Basis for Processing (GDPR)
+## 6. Security  
+All data is transmitted securely using HTTPS.
 
-For users in the European Economic Area (EEA), our legal basis includes:
-	•	Contractual Necessity — processing is required to deliver the service you request
-	•	Legitimate Interest — improving performance and reliability while minimizing data usage
+---
 
-⸻
+## 7. User Rights  
+Users may request data access or deletion where applicable.
 
-5. Data Sharing and Third Parties
+---
 
-To provide intelligent analysis, Wisora transmits vehicle-related data to secure backend services.
+## 8. Cookies  
+We do not use tracking cookies.
 
-AI Processing
+---
 
-Data may be sent to trusted third-party AI providers (e.g., Google Gemini API) to generate analysis results.
+## 9. Children  
+Not intended for users under 13.
 
-These providers process data only to deliver the requested functionality and do not receive personally identifiable information from us.
+---
 
-We are not responsible for the independent privacy practices of third-party services, and users are encouraged to review their respective privacy policies.
+## 10. Changes  
+We may update this policy periodically.
 
-⸻
+---
 
-No Data Selling
-
-We never sell, rent, or trade user data.
-
-⸻
-
-6. Data Retention
-
-Vehicle Data
-
-Public vehicle data and generated analysis results may be retained in our systems to improve performance and avoid redundant processing for identical listings.
-
-Personal Data
-
-We do not store personal identifiers (such as IP addresses or user profiles) alongside analysis data.
-
-Local Data
-
-Locally stored data can be removed at any time by clearing browser storage or uninstalling the Extension.
-
-⸻
-
-7. Data Security Measures
-
-All data transmissions are encrypted using industry-standard HTTPS/TLS protocols.
-
-We implement reasonable technical and organizational safeguards to protect data, though no system can guarantee absolute security.
-
-The functionality of the Extension depends on external services and APIs. We do not guarantee uninterrupted availability of these services.
-
-⸻
-
-8. User Rights (GDPR)
-
-Depending on your location, you may have rights to:
-	•	Access your data
-	•	Request deletion
-	•	Restrict or object to processing
-
-Because Wisora does not maintain user accounts or identifiable profiles, our ability to associate data with a specific individual is intentionally limited.
-
-⸻
-
-9. Cookies and Tracking
-
-Wisora does not use cookies for tracking and does not inject third-party tracking technologies into webpages.
-
-⸻
-
-10. Children’s Privacy
-
-Wisora is not intended for children under 13 (or 16 in the EEA), and we do not knowingly collect personal data from children.
-
-⸻
-
-11. Changes to This Policy
-
-We may update this Privacy Policy periodically. Updates will be reflected by revising the “Effective Date.”
-
-⸻
-
-12. Contact Information
-
-For questions or concerns, please file a ticket within this repo.
+## 11. Contact  
+Please create a ticekt within this repository.
